@@ -4,8 +4,8 @@
  <div>
  <h2>Materials Used</h2>
  <ul>
-   <li>Html</li>
-   <li>Css</li>
+   <li>Html5</li>
+   <li>Css3</li>
    <li>Responsive</li>
  </ul>  
  </di>
