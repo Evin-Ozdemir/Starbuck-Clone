@@ -1,5 +1,5 @@
 <div><h1>Starbucks Clone</h1></div>
-<h4>A website where you can watch the movies you want</h4>
+<h4>A website to order coffee and beverages</h4>
  <h4>Star ⭐ the repo if you like what you see 😉 </h4>
  <div>
  <h2>Materials Used</h2>
@@ -14,6 +14,7 @@
 <div align='center'><h3>Video Status</h3></div>
 <div align='center'>
 
-https://github.com/user-attachments/assets/236449f0-9ae0-445d-9e33-68e3f0a8201f
+https://github.com/user-attachments/assets/f0ec828b-dfd6-41dc-b8f7-0490614a0b40
+
 
 </div>
